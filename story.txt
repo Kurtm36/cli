@@ -1,0 +1,2 @@
+once apon a time >> story.txt
+echo once apon a time
