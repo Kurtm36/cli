@@ -1,2 +1,3 @@
 once apon a time >> story.txt
 echo once apon a time
+there was a wicked witch
